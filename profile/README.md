@@ -1,6 +1,6 @@
 ## Yay, you're here 🏴
 
-![Poluchka Card](https://user-images.githubusercontent.com/36636599/187997460-4e3a6285-f7ed-436d-827f-91a093c87487.png)
+![Poluchka card](https://user-images.githubusercontent.com/36636599/187997721-8bdf87fb-96eb-48b7-bf43-77d85de52227.png)
 
 Poluchka is a fast, secure and simple solution for managing employee attendance and payroll, as well as being user-friendly. We strive to ensure that every small and medium-sized business owner can know exactly where their employees are, whether the work has been done, and when payroll will occur.
 
